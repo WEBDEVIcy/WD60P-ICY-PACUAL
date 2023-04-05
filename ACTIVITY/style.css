@@ -1,0 +1,19 @@
+body{
+
+background-color:  grey;
+
+}
+
+img{
+ width:200px;
+ height:200px;
+}
+h2{
+color:blueviolet;
+}
+
+h3:hover{
+
+color: red;
+
+}
